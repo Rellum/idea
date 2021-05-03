@@ -1,0 +1,6 @@
+<application>
+  <component name="Go">
+    <option name="renameSearchInCommentsForFunction" value="false" />
+    <option name="renameSearchInCommentsForVariable" value="false" />
+  </component>
+</application>

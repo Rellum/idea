@@ -1,0 +1,7 @@
+<templateSet group="Go">
+  <template name="pbt" value="func Test(t *testing.T) {&#10;&#9;var pb walletpb.Action&#10;&#9;fuzz.New().MaxDepth(10).NilChance(0).NumElements(3, 3).Fuzz(&amp;pb)&#10;&#9;var b bytes.Buffer&#10;&#9;m := jsonpb.Marshaler{&#10;&#9;&#9;EnumsAsInts:  false,&#10;&#9;&#9;EmitDefaults: true,&#10;&#9;&#9;Indent:       &quot;  &quot;,&#10;&#9;&#9;OrigName:     false,&#10;&#9;&#9;AnyResolver:  nil,&#10;&#9;}&#10;&#9;err := m.Marshal(&amp;b, &amp;pb)&#10;&#9;jtest.RequireNil(t, err)&#10;&#9;goldie.New(t).Update(t, t.Name(), b.Bytes())&#10;}" description="Protobuf test" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GO_FILE" value="true" />
+    </context>
+  </template>
+</templateSet>

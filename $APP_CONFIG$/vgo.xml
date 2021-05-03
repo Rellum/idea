@@ -1,0 +1,15 @@
+<application>
+  <component name="vgo">
+    <environment>
+      <map>
+        <entry key="GOPROXY">
+          <value>
+            <list>
+              <option value="http://gomodsproxy.prod.luno.com:8731" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </environment>
+  </component>
+</application>
