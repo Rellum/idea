@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="schema.sql" />
+    <option name="FILE_MASK" value="strings.go" />
     <mask>loops.go</mask>
     <mask>_test.go</mask>
     <mask>*.pb.go</mask>
@@ -27,12 +27,12 @@
     <mask>*.proto</mask>
     <mask>weld.go</mask>
     <mask>permissions.sql</mask>
-    <mask>strings.go</mask>
     <mask>*.sql</mask>
     <mask>*_test.go</mask>
     <mask>*.json</mask>
     <mask>*.go</mask>
     <mask>imports.json</mask>
     <mask>schema.sql</mask>
+    <mask>strings.go</mask>
   </component>
 </application>
