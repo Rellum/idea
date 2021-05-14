@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>loops.go</mask>
+    <option name="FILE_MASK" value="uob.go" />
     <mask>_test.go</mask>
     <mask>*.pb.go</mask>
     <mask>backends.go</mask>
@@ -35,5 +35,6 @@
     <mask>imports.json</mask>
     <mask>strings.go</mask>
     <mask>schema.sql</mask>
+    <mask>uob.go</mask>
   </component>
 </application>
