@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>loops.go</mask>
     <mask>_test.go</mask>
     <mask>*.pb.go</mask>
     <mask>backends.go</mask>
@@ -13,6 +14,7 @@
     <mask>handlers.go</mask>
     <mask>*.html</mask>
     <mask>state.go</mask>
+    <mask>imports.json</mask>
     <mask>*.golden</mask>
     <mask>weld_gen.go</mask>
     <mask>dev.go</mask>
@@ -21,17 +23,15 @@
     <mask>metrics.go</mask>
     <mask>*.sh</mask>
     <mask>main.go</mask>
+    <mask>types.go</mask>
     <mask>*.proto</mask>
     <mask>weld.go</mask>
     <mask>permissions.sql</mask>
+    <mask>strings.go</mask>
     <mask>*.sql</mask>
     <mask>*_test.go</mask>
-    <mask>*.json</mask>
-    <mask>imports.json</mask>
-    <mask>strings.go</mask>
-    <mask>uob.go</mask>
-    <mask>types.go</mask>
-    <mask>*.go</mask>
     <mask>schema.sql</mask>
+    <mask>*.json</mask>
+    <mask>*.go</mask>
   </component>
 </application>
