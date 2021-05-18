@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>loops.go</mask>
     <mask>_test.go</mask>
     <mask>*.pb.go</mask>
@@ -31,7 +32,7 @@
     <mask>*.sql</mask>
     <mask>*_test.go</mask>
     <mask>schema.sql</mask>
-    <mask>*.json</mask>
     <mask>*.go</mask>
+    <mask>*.json</mask>
   </component>
 </application>
