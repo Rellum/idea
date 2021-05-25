@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="schema.sql" />
     <mask>loops.go</mask>
     <mask>_test.go</mask>
     <mask>*.pb.go</mask>
@@ -31,9 +32,9 @@
     <mask>strings.go</mask>
     <mask>*.sql</mask>
     <mask>*_test.go</mask>
-    <mask>schema.sql</mask>
     <mask>*.json</mask>
     <mask>*.proto</mask>
     <mask>*.go</mask>
+    <mask>schema.sql</mask>
   </component>
 </application>
