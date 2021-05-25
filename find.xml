@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.go" />
-    <mask>loops.go</mask>
+    <option name="FILE_MASK" value="grpc.go" />
     <mask>_test.go</mask>
     <mask>*.pb.go</mask>
     <mask>backends.go</mask>
@@ -34,5 +33,6 @@
     <mask>*.proto</mask>
     <mask>schema.sql</mask>
     <mask>*.go</mask>
+    <mask>grpc.go</mask>
   </component>
 </application>
