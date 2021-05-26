@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="weld.go" />
     <mask>_test.go</mask>
     <mask>*.pb.go</mask>
     <mask>backends.go</mask>
@@ -23,7 +24,6 @@
     <mask>*.sh</mask>
     <mask>main.go</mask>
     <mask>types.go</mask>
-    <mask>weld.go</mask>
     <mask>permissions.sql</mask>
     <mask>strings.go</mask>
     <mask>*.sql</mask>
@@ -33,5 +33,6 @@
     <mask>schema.sql</mask>
     <mask>*.go</mask>
     <mask>grpc.go</mask>
+    <mask>weld.go</mask>
   </component>
 </application>
