@@ -28,10 +28,10 @@
     <mask>*_test.go</mask>
     <mask>*.json</mask>
     <mask>*.proto</mask>
-    <mask>schema.sql</mask>
     <mask>*.go</mask>
     <mask>grpc.go</mask>
     <mask>weld.go</mask>
     <mask>dev.go</mask>
+    <mask>schema.sql</mask>
   </component>
 </application>
