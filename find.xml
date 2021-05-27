@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="weld_gen.go" />
+    <option name="FILE_MASK" value="dev.go" />
     <mask>_test.go</mask>
     <mask>*.pb.go</mask>
     <mask>email*</mask>
@@ -29,10 +29,10 @@
     <mask>*.go</mask>
     <mask>grpc.go</mask>
     <mask>weld.go</mask>
-    <mask>dev.go</mask>
     <mask>schema.sql</mask>
     <mask>backends.go</mask>
     <mask>*.json</mask>
     <mask>weld_gen.go</mask>
+    <mask>dev.go</mask>
   </component>
 </application>
