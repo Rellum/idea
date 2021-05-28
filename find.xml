@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="imports.json" />
+    <option name="FILE_MASK" value="metrics.go" />
     <mask>_test.go</mask>
     <mask>*.pb.go</mask>
     <mask>email*</mask>
@@ -16,7 +16,6 @@
     <mask>*.golden</mask>
     <mask>api.go</mask>
     <mask>server.go</mask>
-    <mask>metrics.go</mask>
     <mask>*.sh</mask>
     <mask>main.go</mask>
     <mask>types.go</mask>
@@ -34,5 +33,6 @@
     <mask>*.go</mask>
     <mask>*.json</mask>
     <mask>imports.json</mask>
+    <mask>metrics.go</mask>
   </component>
 </application>
