@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>_test.go</mask>
+    <option name="FILE_MASK" value="go.mod" />
     <mask>*.pb.go</mask>
     <mask>email*</mask>
     <mask>rdigest.go</mask>
@@ -33,5 +33,6 @@
     <mask>metrics.go</mask>
     <mask>imports.json</mask>
     <mask>schema.sql</mask>
+    <mask>go.mod</mask>
   </component>
 </application>
