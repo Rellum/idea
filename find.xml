@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="schema.sql" />
     <mask>_test.go</mask>
     <mask>*.pb.go</mask>
     <mask>email*</mask>
@@ -30,8 +31,8 @@
     <mask>dev.go</mask>
     <mask>*.go</mask>
     <mask>*.json</mask>
-    <mask>schema.sql</mask>
     <mask>metrics.go</mask>
     <mask>imports.json</mask>
+    <mask>schema.sql</mask>
   </component>
 </application>
