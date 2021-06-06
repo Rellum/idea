@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="imports.json" />
     <mask>*.pb.go</mask>
     <mask>email*</mask>
     <mask>rdigest.go</mask>
@@ -28,10 +29,10 @@
     <mask>weld_gen.go</mask>
     <mask>dev.go</mask>
     <mask>*.go</mask>
-    <mask>imports.json</mask>
     <mask>schema.sql</mask>
     <mask>go.mod</mask>
     <mask>metrics.go</mask>
     <mask>*.json</mask>
+    <mask>imports.json</mask>
   </component>
 </application>
