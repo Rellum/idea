@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*.go" />
     <mask>*.pb.go</mask>
     <mask>email*</mask>
     <mask>rdigest.go</mask>
@@ -32,7 +32,7 @@
     <mask>go.mod</mask>
     <mask>metrics.go</mask>
     <mask>imports.json</mask>
-    <mask>*.go</mask>
     <mask>*.json</mask>
+    <mask>*.go</mask>
   </component>
 </application>
