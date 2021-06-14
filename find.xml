@@ -30,8 +30,8 @@
     <mask>schema.sql</mask>
     <mask>go.mod</mask>
     <mask>metrics.go</mask>
-    <mask>imports.json</mask>
     <mask>*.json</mask>
     <mask>*.go</mask>
+    <mask>imports.json</mask>
   </component>
 </application>
