@@ -26,12 +26,12 @@
     <mask>dev.go</mask>
     <mask>go.mod</mask>
     <mask>*.json</mask>
-    <mask>imports.json</mask>
     <mask>metrics.go</mask>
     <mask>schema.sql</mask>
     <mask>*.proto</mask>
     <mask>*_test.go</mask>
     <mask>*.go</mask>
     <mask>*.sql</mask>
+    <mask>imports.json</mask>
   </component>
 </application>
