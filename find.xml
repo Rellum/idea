@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="go.mod" />
     <mask>*.pb.go</mask>
     <mask>email*</mask>
     <mask>rdigest.go</mask>
@@ -24,7 +25,6 @@
     <mask>backends.go</mask>
     <mask>weld_gen.go</mask>
     <mask>dev.go</mask>
-    <mask>go.mod</mask>
     <mask>*.json</mask>
     <mask>metrics.go</mask>
     <mask>schema.sql</mask>
@@ -33,5 +33,6 @@
     <mask>*.go</mask>
     <mask>*.sql</mask>
     <mask>imports.json</mask>
+    <mask>go.mod</mask>
   </component>
 </application>
