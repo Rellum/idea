@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="dockerfile" type="AUTO_DETECTED" />
       <mapping pattern="docker" type="AUTO_DETECTED" />
+      <mapping pattern="talks/payments_data" type="AUTO_DETECTED" />
       <mapping pattern="Proc" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="hmacTestKey" type="PLAIN_TEXT" />
