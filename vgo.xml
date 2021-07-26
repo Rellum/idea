@@ -2,9 +2,17 @@
   <component name="vgo">
     <environment>
       <map>
+        <entry key="GONOPROXY">
+          <value>
+            <list>
+              <option value="true" />
+            </list>
+          </value>
+        </entry>
         <entry key="GOPROXY">
           <value>
             <list>
+              <option value="&quot;&quot;" />
               <option value="http://gomodsproxy.prod.luno.com:8731" />
             </list>
           </value>
